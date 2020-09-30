@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Buddhika!](https://BuddhikaD.github.io) 
+### Hey 👋🏽, I'm [Buddhika!](https://github.com/BuddhikaD) 
 ![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
 
 <br/>
