@@ -28,8 +28,8 @@ Hi, I'm Buddhika Dananjaya, 🚀 from Srilanka, currently, I'm a Undergraduate i
 - 🔭 I’m currently student as **National School Of Business Management**
 - ⚙️ I use daily: `.html`, `.js`, `.react`, `.css`,
 - 👯 I’m looking to collaborate on open source/commercial projects
-- ❤ I’m open source lover
-- 💬 Ask me about **Web Development**
+- ❤ I’m open source lover and tech talk speaker
+- 💬 Ask me about **Web Development & Mobile Development**
 - 📫 How to reach me: buddhikadananjaya55@gmail.com;
 
 
